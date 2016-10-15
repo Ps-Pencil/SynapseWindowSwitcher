@@ -5,5 +5,5 @@ This serves as a workaround until they decided to add one.
 Dependencies: xdotool
 
 How to use:
-- copy/symlink to somwhere in PATH. (Rename if you will. I choose "we" just because it is faster to type).
+- copy/symlink to somwhere in PATH. (Rename if you wish. I choose "we" just because it is faster to type).
 - in synapse, type "we something" to switch to the window with name containing "something"
