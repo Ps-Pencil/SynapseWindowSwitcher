@@ -1,0 +1,9 @@
+Synapse is a quick launcher for ubuntu. The current stable release lacks a window switcher capability.
+
+This serves as a workaround until they decided to add one.
+
+Dependencies: xdotool
+
+How to use:
+- copy/symlink to somwhere in PATH. (Rename if you will. I choose "we" just because it is faster to type).
+- in synapse, type "we something" to switch to the window with name containing "something"
