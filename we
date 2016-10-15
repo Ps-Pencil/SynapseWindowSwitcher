@@ -6,4 +6,4 @@ fi
 
 # to ensure we can just type lower case letters
 shopt -s nocasematch
-xdotool search --name "$1" windowactivate
+xdotool search "$1" windowactivate
